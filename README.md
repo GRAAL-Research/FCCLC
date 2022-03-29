@@ -69,11 +69,11 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
               </tr>
               <tr>
                 <td>name</td>
-                <td><code itemprop="name">Marouane Yassine</code></td>
+                <td><code itemprop="name">Vincent Primpied</code></td>
               </tr>
               <tr>
                 <td>sameAs</td>
-                <td><code itemprop="sameAs">https://scholar.google.com/citations?user=EjZyhCAAAAAJ&hl=fr&oi=sra</code></td>
+                <td><code itemprop="sameAs">URL Google Scolar</code></td>
               </tr>
                 <tr>
                 <td>name</td>
@@ -82,6 +82,15 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
               <tr>
                 <td>sameAs</td>
                 <td><code itemprop="sameAs">https://scholar.google.com/citations?hl=fr&user=ntoPgSUAAAAJ</code></td>
+              </tr>
+              </tr>
+              <tr>
+                <td>name</td>
+                <td><code itemprop="name">Richard Khoury</code></td>
+              </tr>
+              <tr>
+                <td>sameAs</td>
+                <td><code itemprop="sameAs">https://scholar.google.com/citations?user=9MrPtC0AAAAJ&hl=en&oi=ao</code></td>
               </tr>
             </table>
           </div>
