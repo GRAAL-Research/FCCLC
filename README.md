@@ -11,10 +11,6 @@ Our dataset is hosted in this repository in a `zip` format. You can manually dow
 wget https://github.com/GRAAL-Research/FCCLC/raw/main/FCCLC.zip
 ```
 
-## About the Data
-
-# TODO
-
 ## Cite the Dataset
 
 If you use the data provided in this repository, please cite us using the following:
