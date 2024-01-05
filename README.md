@@ -16,11 +16,14 @@ wget https://github.com/GRAAL-Research/FCCLC/raw/main/FCCLC.zip
 If you use the data provided in this repository, please cite us using the following:
 
 ```
-@misc{fcclc,
-    author = {Vincent Primpied and David Beauchemin and Richard Khoury},
-    title  = {{Quantifying French document Complexity}},
-    year   = {2022},
-    note   = {\url{URL}}
+@article{Primpied2022Quantifying,
+	author = {Primpied, Vincent and Beauchemin, David and Khoury, Richard},
+	journal = {Proceedings of the Canadian Conference on Artificial Intelligence},
+	year = {2022},
+	month = {may 27},
+	note = {https://caiac.pubpub.org/pub/iaeeogod},
+	publisher = {Canadian Artificial Intelligence Association (CAIAC)},
+	title = {Quantifying {French} {Document} {Complexity} },
 }
 ```
 
@@ -51,7 +54,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
   <tr>
     <td>description</td>
-    <td><code itemprop="description"> #TODO
+    <td><code itemprop="description"> FCCLC is an annotated dataset of different French documents with their associated complexity level on a grading scale.
     </code></td>
   </tr>
     <tr>
@@ -69,7 +72,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
               </tr>
               <tr>
                 <td>sameAs</td>
-                <td><code itemprop="sameAs">URL Google Scolar</code></td>
+                <td><code itemprop="sameAs">https://scholar.google.com/citations?hl=en&user=HYfBQIoAAAAJ</code></td>
               </tr>
                 <tr>
                 <td>name</td>
@@ -136,7 +139,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
     <tr>
     <td>citation</td>
-    <td><code itemprop="citation">URL</code></td>
+    <td><code itemprop="citation">[URL](https://caiac.pubpub.org/pub/iaeeogod/release/1)https://caiac.pubpub.org/pub/iaeeogod/release/1</code></td>
   </tr>
 </table>
 </div>
