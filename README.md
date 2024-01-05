@@ -54,7 +54,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
   <tr>
     <td>description</td>
-    <td><code itemprop="description"> FCCLC is an annotated dataset of different French documents with their associated complexity level on a grading scale.
+    <td><code itemprop="description">FCCLC is an annotated dataset of different French documents with their associated complexity level on a grading scale.
     </code></td>
   </tr>
     <tr>
@@ -139,7 +139,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
     <tr>
     <td>citation</td>
-    <td><code itemprop="citation">[URL](https://caiac.pubpub.org/pub/iaeeogod/release/1)https://caiac.pubpub.org/pub/iaeeogod/release/1</code></td>
+    <td><code itemprop="citation">https://caiac.pubpub.org/pub/iaeeogod/release/1</code></td>
   </tr>
 </table>
 </div>
